@@ -1,6 +1,6 @@
 # Inter-School Competition Management System
 
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-yellow.svg?style=flat-square)](LICENSE)
 ![Contributions welcome](https://img.shields.io/badge/Contributions-WELCOME-brightgreen.svg?style=flat-square)
 [![PHP](https://img.shields.io/badge/PHP-7.4.3-blue.svg?style=flat-square)](https://www.php.net/releases/7_4_3.php)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0.19-red.svg?style=flat-square)](https://dev.mysql.com/doc/relnotes/mysql/8.0/en/news-8-0-19.html)
@@ -99,7 +99,7 @@ This project is a web-based system for managing an inter-school competition, cov
 
 ## 📝 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the `Apache License 2.0` License. See the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
